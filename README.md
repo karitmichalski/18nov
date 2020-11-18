@@ -1,2 +1,1 @@
-# 18nov
-Test project
+It's a test project for learning GitHub.
